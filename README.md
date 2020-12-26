@@ -4,13 +4,13 @@ Team Name: Team Coconut
 Team members information: 
 
 Fahimul Hoque Jason(Team Leader)
-fahimulhoquejason@gmail.com
+Email: fahimulhoquejason@gmail.com
 
 Shariar Hossain
-shahriarhossain9007@gmail.com
+Email: shahriarhossain9007@gmail.com
 
 Tanvir Ahmed
-tanvirewu32@gmail.com 
+Email: tanvirewu32@gmail.com 
 
 Project title: Emergency Needs - A solution to get any service at any time!
 
